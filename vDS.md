@@ -4,7 +4,8 @@ Data
   VM
 
 Storage
-  iSCSI
+  iSCSI1
+  iSCSI2
   vMotion
   vSAN
 ```
