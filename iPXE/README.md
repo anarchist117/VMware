@@ -4,7 +4,7 @@
 ```
 prefix=http://ipxe.domain.com/ESXi-8.x.x-XXXXXX
 ```
-where **http://ipxe.domain.com/ESXi-8.x.x-XXXXXX** is the location of the installer files on the HTTP server.
+where `http://ipxe.domain.com/ESXi-8.x.x-XXXXXX` is the location of the installer files on the HTTP server.
 
 ### 2. Delete (/)
 If the filenames in the kernel= and modules= lines begin with a forward slash (/) character, delete that character.
