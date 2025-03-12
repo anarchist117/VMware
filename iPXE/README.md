@@ -1,8 +1,9 @@
 # Modify the boot.cfg file
 
 ### 1.Add the following line
+```
 prefix=http://ipxe.domain.com/ESXi-8.x.x-XXXXXX
-
+```
 where http://ipxe.domain.com/ESXi-8.x.x-XXXXXX is the location of the installer files on the HTTP server.
 
 ### 2. Delete (/)
