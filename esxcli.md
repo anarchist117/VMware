@@ -5,7 +5,8 @@ esxcli software component apply -d /tmp/CPxxxxxx_VMw.zip
 
 # Executing the binary
 ```
-./opt/Smart_Component/CPxxxxxx/Execute_Component
+cd /opt/Smart_Component/CPxxxxxx
+./Execute_Component
 ```
 
 # Removing vib file
