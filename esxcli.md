@@ -11,7 +11,7 @@ cd /opt/Smart_Component/CPxxxxxx
 
 # Removing vib file
 ```
-esxcli software component remove –n Smart-Component-CPxxxxxx
+esxcli software vib remove -n CPxxxxxx
 ```
 
 # Manually remove the folders
