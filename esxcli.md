@@ -1,9 +1,19 @@
 # Installing vib file
 ```
-esxcli software component apply -d /tmp/CP123456_VMw.zip
+esxcli software component apply -d /tmp/CPxxxxxx_VMw.zip
 ```
 
 # Executing the binary
 ```
-./opt/Smart_Component/CP123456/Execute_Component
+./opt/Smart_Component/CPxxxxxx/Execute_Component
+```
+
+# Removing vib file
+```
+esxcli software component remove –n Smart-Component-CPxxxxxx
+```
+
+# Manually remove the folders
+```
+rm –rf /opt/Smart_Component/CPxxxxxx
 ```
