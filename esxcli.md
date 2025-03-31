@@ -16,5 +16,5 @@ esxcli software vib remove -n CPxxxxxx
 
 # Manually remove the folders
 ```
-rm –rf /opt/Smart_Component/CPxxxxxx
+rm -rf /opt/Smart_Component/CPxxxxxx
 ```
