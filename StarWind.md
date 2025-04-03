@@ -4,6 +4,6 @@
 | Fail | vCenter | vSAN | DSwitch |
 
 # Documentation
-[starwind-v2v-converter](https://www.starwindsoftware.com/starwind-v2v-converter)
+[StarWind V2V / P2V Converter](https://www.starwindsoftware.com/starwind-v2v-converter)
 
-[Download StarWindConverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)
+[Download StarWind Converter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)
